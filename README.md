@@ -10,6 +10,6 @@ Mock UI for V1: https://dealparserai.vercel.app/
 [Product Brief](./docs/DealParse%20AI%20Product%20Brief.pdf) — product scope, features, and go to market plan
 Status
 
-Status: V1 in progress. The demo above shows the intended interface and direction only; it does not yet process real data. A pilot partnership with the University of Wisconsin Real Estate Department has been identified as a strong go to market step but is not currently underway.
+💡 Status: In active discovery/MVP scoping phase. The demo above shows the intended interface and direction only; it does not yet process real data. A pilot partnership with the University of Wisconsin Real Estate Department has been identified as a strong go to market step but is not currently underway.
 
 -----------------------------------------------------------
