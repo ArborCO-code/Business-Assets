@@ -5,11 +5,11 @@ DealParser AI: AI powered rent roll and T-12 parsing for small and independent r
 
 UI demo: https://dealparserai.vercel.app/
 
-Documentation:
-
 [Business Case](./docs/DealParse%20AI%20Business%20Case.pdf)  — market opportunity, competitive landscape, pricing, unit economics, and risk assessment
 
 [Product Brief](./docs/DealParse%20AI%20Product%20Brief.pdf) — product scope, features, and go to market plan
 Status
 
 Status: V1 in progress. The demo above shows the intended interface and direction only; it does not yet process real data. A pilot partnership with the University of Wisconsin Real Estate Department has been identified as a strong go to market step but is not currently underway.
+
+-----------------------------------------------------------
